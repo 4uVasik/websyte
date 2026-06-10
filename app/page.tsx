@@ -163,7 +163,7 @@ export default function Page() {
       {/* Sticky Footer */}
       <div className="fixed inset-x-0 bottom-0 z-40 border-t border-white/10 bg-[#0b071e]/70 p-4 backdrop-blur-xl">
         <a
-          href="https://t.me"
+          href="https://t.me/CuVasManager"
           target="_blank"
           rel="noreferrer"
           className="mx-auto flex w-full max-w-md items-center justify-center gap-2 rounded-2xl bg-gradient-to-r from-violet-600 via-fuchsia-500 to-cyan-400 px-6 py-4 text-center text-sm font-bold leading-snug text-white shadow-[0_0_28px_-6px_rgba(168,85,247,0.7)] transition-all hover:-translate-y-0.5 hover:shadow-[0_0_36px_-4px_rgba(34,211,238,0.7)]"
